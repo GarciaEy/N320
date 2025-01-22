@@ -1,0 +1,13 @@
+{
+  "name": "n320",
+  "version": "1.0.0",
+  "description": "**Full-stack development** involves techniques and skills from both frontend and backend web development.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "shs": "node ./functions"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
