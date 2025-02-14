@@ -1,0 +1,14 @@
+{
+  "name": "sp25-n320-week-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fs": "node fs",
+    "path": "node path",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

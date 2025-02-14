@@ -1,0 +1,21 @@
+{
+  "name": "create-project-directory",
+  "version": "1.0.0",
+  "description": "Create an project directory with readme file and index file!",
+  "main": "index.js",
+  "bin": {
+    "create-project-directory": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "project",
+    "directory",
+    "generator",
+    "nodejs"
+  ],
+  "author": "Eyanla Garcia-Arnold",
+  "license": "ISC"
+}
