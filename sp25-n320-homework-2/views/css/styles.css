@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 16px;
+}
+
+nav {
+  background-color: lightskyblue;
+  color: cornsilk;
+  height: 50px;
+  width: 100%;
+  font-size: 20px;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  text-transform: uppercase;
+}
+
+a {
+  color: cornsilk;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: midnightblue;
+}
+
+h1 {
+  /* font-size: 20px; */
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  /* text-transform: uppercase; */
+}
+
+p {
+  font-size: 15px;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  /* text-transform: uppercase; */
+}
+
+img {
+  height: 500px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  margin: auto;
+}
+
+#trickP {
+  font-size: 15px;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  margin: auto;
+}
+
+button {
+  background-color: midnightblue;
+  color: cornsilk;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  font-family: sans-serif;
+  cursor: pointer;
+  border-radius: 25px;
+  border: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: auto;
+}
